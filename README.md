@@ -12,8 +12,11 @@ the table must have a id primery key.
 the class that handels all the crud is inside yapi/ycruc/jtable_actions.php
 its depended on ycrud.php
 it also uses my templating class (a very basic use).
+
 --------------------------------
+
 in the future ill create a detailed tutorial on how to use it.
+
 -------------------------
 the posts table js object is inside js/tables_objs
 
